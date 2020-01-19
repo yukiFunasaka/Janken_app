@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>Janken_game</name>
@@ -9,3 +10,22 @@
 	<natures>
 	</natures>
 </projectDescription>
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectDescription>
+  <name>Janken_game</name>
+  <comment/>
+  <projects>&#xD;
+    </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+      <arguments>&#xD;
+            </arguments>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
+>>>>>>> f880ab0aa9c9c4a8d2a4e8422f52f1d8b7463dfe
