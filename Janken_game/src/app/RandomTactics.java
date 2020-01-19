@@ -1,4 +1,6 @@
-public class RandomTactics implements Tactics{
+package app;
+
+public class RandomTactics implements Tactics {
     public int readTactics(){
         int hand = 0;
 

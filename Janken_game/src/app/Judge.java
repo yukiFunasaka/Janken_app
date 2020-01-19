@@ -1,4 +1,6 @@
-public class Judge{
+package app;
+
+public class Judge {
 
     public void startJanken (Player player1 , Player player2){
         System.out.println("【じゃんけんゲームスタート】");

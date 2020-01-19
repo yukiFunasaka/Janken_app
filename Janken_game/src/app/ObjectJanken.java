@@ -1,4 +1,6 @@
-public class ObjectJanken{
+package app;
+
+public class ObjectJanken {
     public static void main(String[] args){
         Judge saito = new Judge();
         Player kato = new Player("加藤さん");
