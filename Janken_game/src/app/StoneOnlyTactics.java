@@ -1,4 +1,6 @@
-public class StoneOnlyTactics implements Tactics{
+package app;
+
+public class StoneOnlyTactics implements Tactics {
     public int readTactics(){
         return Player.STONE;
     }
