@@ -1,4 +1,6 @@
-public class Simple_Janken{
+package app;
+
+public class Simple_Janken {
     public static void main(String[] args){
         System.out.println("ジャンケンゲームをスタートします");
 
