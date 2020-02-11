@@ -1,12 +1,15 @@
 package app;
 
 import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
 class AskTactics implements Tactics{
 
     public int readTactics() {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
+        System.out.println("出す手を選択してください(0:グー,1:チョキ,2:パー)");
+        System.out.println("?");
         int hand = 0;
 
         while(true){

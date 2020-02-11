@@ -9,7 +9,7 @@ public class ObjectJanken {
         Tactics katoTactics = new StoneOnlyTactics();
         kato.setTactics(katoTactics);
 
-        Tactics suzukiTactics = new RandomTactics();
+        Tactics suzukiTactics = new CyclicTactics();
         suzuki.setTactics(suzukiTactics);
 
         saito.startJanken(kato, suzuki);
